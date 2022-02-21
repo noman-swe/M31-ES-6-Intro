@@ -1,4 +1,4 @@
-function add(num1, num2){
+function add(num1, num2 = 0){
     // seting the value of num2 
     /*//if we don't have more parameter value then we set a value 0 if undefined
     // system-1
